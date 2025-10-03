@@ -82,6 +82,39 @@ python clean_robinhood.py
 streamlit run app.py
 ```
 
+## 🚀 Demo Screenshots
+
+Here are some highlights of the dashboard in action:
+
+### 📋 Portfolio Summary
+![Portfolio Summary](assets/portfolio_summary.png)
+
+### 📊 Allocation by Ticker
+![Allocation by Ticker](assets/allocation_ticker.png)
+
+### 📊 Allocation by Sector
+![Allocation by Sector](assets/allocation_sector.png)
+
+### 🏆 Performance Ranking
+![Performance Ranking](assets/performance_ranking.png)
+
+### 📈 Top Gainers & Losers
+![Top Gainers & Losers](assets/gainers_losers.png)
+
+### 📊 Portfolio vs Market Benchmarks
+![Portfolio vs Market Benchmarks](assets/benchmark_comparison.png)
+
+### 📉 Backtesting: Performance & Risk Metrics
+![Performance Analysis](assets/backtesting_performance.png)
+
+### 🎲 Monte Carlo Simulation
+![Monte Carlo Simulation](assets/montecarlo.png)
+
+### ⚖️ Strategy Comparison
+![Strategy Comparison](assets/strategy_comparison.png)
+
+
+
 ## 📁 Project Structure
 
 portfolio-dashboard/
