@@ -1,0 +1,18 @@
+Activity Date,Process Date,Settle Date,Instrument,Description,Trans Code,Quantity,Price,Amount
+1/15/24,1/15/24,1/16/24,AAPL,Apple Inc. Class A Common Stock CUSIP: 037833100,Buy,5,$185.50 ,($927.50)
+2/1/24,2/1/24,2/2/24,GOOGL,Alphabet Inc. Class A Common Stock CUSIP: 02079K305,Buy,3,$140.25 ,($420.75)
+4/1/24,4/1/24,4/2/24,QQQ,Invesco QQQ Trust Series 1 CUSIP: 46090E103,Buy,10,$420.15 ,"($4,201.50)"
+5/15/24,5/15/24,5/16/24,META,Meta Platforms Inc. Class A Common Stock CUSIP: 30303M102,Buy,2,$485.25 ,($970.50)
+6/1/24,6/1/24,6/2/24,NFLX,Netflix Inc. Common Stock CUSIP: 64110L106,Buy,3,$425.80 ,"($1,277.40)"
+6/15/24,6/15/24,6/16/24,AMD,Advanced Micro Devices Inc. Common Stock CUSIP: 007903107,Buy,8,$125.40 ,"($1,003.20)"
+7/15/24,7/15/24,7/16/24,SCHD,Schwab US Dividend Equity ETF CUSIP: 808524102,Buy,15,$78.90 ,"($1,183.50)"
+8/15/24,8/15/24,8/16/24,JPM,JPMorgan Chase & Co. Common Stock CUSIP: 46625H100,Buy,4,$155.40 ,($621.60)
+10/1/24,10/1/24,10/2/24,HOOD,Robinhood Markets Inc. Class A Common Stock CUSIP: 770741103,Buy,20,$12.50 ,($250.00)
+3/15/25,3/15/25,3/16/25,AAPL,Cash Div: R/D 2025-02-09 P/D 2025-03-15 - 5 shares at 0.25,CDIV,,,$1.25 
+5/1/25,5/1/25,5/2/25,JPM,Cash Div: R/D 2025-04-05 P/D 2025-05-01 - 4 shares at 1.15,CDIV,,,$4.60 
+5/15/25,5/15/25,5/16/25,SCHD,Cash Div: R/D 2025-04-03 P/D 2025-05-15 - 15 shares at 0.69,CDIV,,,$10.35 
+6/1/25,6/1/25,6/2/25,GOOGL,Alphabet Inc. Class A Common Stock CUSIP: 02079K305,Buy,2,$165.40 ,($330.80)
+7/15/25,7/15/25,7/16/25,META,Meta Platforms Inc. Class A Common Stock CUSIP: 30303M102,Buy,1,$485.90 ,($485.90)
+8/1/25,8/1/25,8/2/25,,ACH Deposit,ACH,,,"$5,000.00 "
+8/15/25,8/15/25,8/16/25,QQQ,Invesco QQQ Trust Series 1 CUSIP: 46090E103,Buy,5,$485.25 ,"($2,426.25)"
+9/15/25,9/15/25,9/16/25,TSM,Taiwan Semiconductor Manufacturing Company Ltd. ADR CUSIP: 874039100,Buy,4,$165.40 ,($661.60)
