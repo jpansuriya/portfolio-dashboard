@@ -72,7 +72,7 @@ fig3.update_layout(yaxis_title="% Gain/Loss", xaxis_title="Ticker")
 st.plotly_chart(fig3, use_container_width=True)
 
 # --- Portfolio vs Benchmarks ---
-st.subheader("📈 Portfolio vs Market Benchmarks (6 months)")
+st.subheader("📈 Portfolio vs Market Benchmarks")
 
 # Sidebar: select time period
 period = st.sidebar.selectbox(
@@ -109,7 +109,7 @@ for name, series in benchmark_data.items():
     comparison[name] = series / series.iloc[0] * 100
 
 # Plot
-fig4 = px.line(comparison, title="Portfolio vs S&P 500 and Nasdaq (6 months)")
+fig4 = px.line(comparison, title="Portfolio vs S&P 500 and Nasdaq")
 st.plotly_chart(fig4, use_container_width=True)
 
 
